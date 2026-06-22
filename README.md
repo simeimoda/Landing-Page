@@ -6,9 +6,6 @@ Landing page pessoal desenvolvida com HTML5 e CSS3 para apresentar meu perfil pr
 
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
-- SVG
 
 ## Funcionalidades
 
